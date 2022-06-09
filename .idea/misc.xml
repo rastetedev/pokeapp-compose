@@ -5,6 +5,9 @@
       <map>
         <entry key="../../../../../layout/compose-model-1653606843799.xml" value="0.16111111111111112" />
         <entry key="../../../../../layout/compose-model-1653621142991.xml" value="0.9747292418772563" />
+        <entry key="app/src/main/res/drawable/ic_height.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_poke_logo.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_weight.xml" value="0.1" />
       </map>
     </option>
   </component>
